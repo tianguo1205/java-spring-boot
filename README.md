@@ -7,6 +7,7 @@ Fork this repository to run a simple Spring Boot application with the help of Bu
 Please don't forget to set the `PORT` environment variable.
 
 ## 📦 项目结构
+```
 springboot-demo/                 # 项目根目录
 ├── .gitignore
 ├── mvnw / mvnw.cmd
@@ -28,4 +29,4 @@ springboot-demo/                 # 项目根目录
     └── test/
         └── java/com/nodion/demo/
             └── DemoApplicationTests.java
- 
+```
