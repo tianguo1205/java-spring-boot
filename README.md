@@ -11,20 +11,16 @@ Please don't forget to set the `PORT` environment variable.
 
 2. 使用 Buildpacks 部署
 我的项目根目录有pom.xml文件，Buildpacks自动识别为Java项目。我在system.properties中添加：
-
 java.runtime.version=17
 部署完成后，访问我的应用URL就能看到"Hello Nodion!"的欢迎信息。
-=======
 
-
-'''
 3. 验证应用运行
 部署成功后，我通过浏览器访问分配的应用域名，页面显示：
 
 Hello Nodion!
 
 这表明我的Java应用已在Nodion上成功运行。
-'''
+
 =======
 
 ## 📦 项目结构
